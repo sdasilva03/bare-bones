@@ -1,3 +1,7 @@
+# Bare Bones
+
+A stripped down version of the Bones theme. Comments will remain intact for the time being, but all default styles are gone. This will be a work in progress as I modify it for my (usually very simple) theming needs.  
+
 # Bones
 A Lightweight Wordpress Development Theme
 
